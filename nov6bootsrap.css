@@ -1,0 +1,11 @@
+.gridbox {
+    display: grid;
+    gap: 1rem;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.gridbox div {
+    width: 250px;
+    height: 400px;
+    background-color: chocolate;
+}
